@@ -1,5 +1,5 @@
 ## Quick start
-### Installation
+### Base Pose Estimation Model
 1. Install pytorch:
    ```
    conda install pytorch torchvision 
