@@ -56,4 +56,4 @@ python finetune_joints.py
 
 ## Acknowledgement
 
-Our PoseWarper implementation is built on top of [*Deep High Resolution Network implementation*](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch). We thank the authors for releasing their code.
+Our PoseWarper implementation is built on top of [*Deep High Resolution Network implementation*](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch) and [*Posewarper*](https://github.com/facebookresearch/PoseWarper). We thank the authors for releasing their code.
