@@ -37,3 +37,8 @@
    python setup.py develop
    ```
 8. Download our pretrained models, and some supplementary data files from [this link](https://www.dropbox.com/s/ygfy6r8nitoggfq/PoseWarper_supp_files.zip?dl=0) and extract it to ${POSEWARPER_SUPP_ROOT} directory.
+
+
+## Acknowledgement
+
+Our PoseWarper implementation is built on top of [*Deep High Resolution Network implementation*](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch). We thank the authors for releasing their code.
