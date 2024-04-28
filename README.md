@@ -45,6 +45,10 @@ demo_data/PoseTrack2018
     `-- val (all videos in one file, included in supplementary data files)
 ```
 
+### Refinement of pose estimations 
+Download weights from [Weights](https://pan.baidu.com/s/1F3xlhcITxydSIIdaR2yokg?pwd=mvrd). Code: mvrd. Placed at: simple-HRNet-master/weights
+Run finetune_joints.py 
+
 ## Acknowledgement
 
 Our PoseWarper implementation is built on top of [*Deep High Resolution Network implementation*](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch). We thank the authors for releasing their code.
